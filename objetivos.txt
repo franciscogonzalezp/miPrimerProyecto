@@ -1,1 +1,2 @@
 Listado de objetivos:
+ - Primer objetivo repasar conceptos básicos
