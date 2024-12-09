@@ -1,2 +1,3 @@
 Listado de objetivos:
  - Primer objetivo repasar conceptos básicos
+ - Segundo objetivo actualizar y refrescar angular
