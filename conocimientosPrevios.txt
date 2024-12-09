@@ -1,2 +1,3 @@
 Listado de conocimientos:
 - Conocimientos en html y css.
+- Conocimiento en Java y en SQL
